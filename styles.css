@@ -33,7 +33,6 @@ ul {
 #projects {
   display:flex;
   flex-wrap: nowrap;
-  max-width: 550px;
   justify-content: space-around;
 }
 #skills {
