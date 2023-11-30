@@ -30,6 +30,6 @@ ul {
      height: auto;
      border-radius: 50%;
       }
-#projects {
+#.projects {
   flex-wrap: nowrap;
 }
